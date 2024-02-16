@@ -30,20 +30,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davcode92&show_icons=true&locale=en&layout=compact" alt="davcode92" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davcode92&" alt="davcode92" /></p>
-](https://github.com/davcode92/images/blob/main/github-header-image.png
-<h1 align="center">Salut 👋,c'est Davy</h1>
-<h3 align="center">Je suis Développeur full stack au Gabon.</h3>
-
-<p align="right"> img src="https://makeagif.com/gif/code-fi-lofi-beats-to-coderelax-to-FvBVst" alt="davcode92" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davcode92" alt="davcode92" /></a> </p>
-
-- 🔭Je travaille sur plusieurs projets [Food Search](https://davcode92.github.io/Food_search/)
-
-- 🌱 J'apprends actuellement **MongoDB,Express.js**
-
-- 👨‍💻Tous mes projets sont disponibles sur [https://github.com/davcode92](https://github.com/davcode92)
 
 - 📝J'écris régulièrement des articles sur [https://www.facebook.com/profile.php?id=61556301787782](https://www.facebook.com/profile.php?id=61556301787782)
 
