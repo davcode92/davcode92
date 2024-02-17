@@ -27,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davcode92&show_icons=true&locale=en&layout=compact" alt="davcode92" /></p>
 
-- 💬 Demande moi à propos de **React,Angular**
+
 
 
 
