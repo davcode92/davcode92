@@ -12,7 +12,7 @@
 
 - 💬 Demande moi à propos de **React,Express,MongoDB,Node.js**
 
-- 📫Comment me joindre **crocodilemethe@gmail.com**
+- 📫Comment me joindre: **crocodilemethe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
