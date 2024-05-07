@@ -1,18 +1,16 @@
 
 <h1 align="center">Salut 👋,c'est Davy</h1>
-<h3 align="center">Je suis Développeur full stack au Gabon.</h3>
+<h3 align="center">Je suis Développeur full stack Javascript.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davcode92" alt="davcode92" /></a> </p>
 
-- 🔭Je travaille sur plusieurs projets [Food Search](https://davcode92.github.io/Food_search/)
-
-- 🌱 J'apprends actuellement **MongoDB,Express.js**
+- 🔭Je travaille sur plusieurs projets 
 
 - 👨‍💻Tous mes projets sont disponibles sur [https://github.com/davcode92](https://github.com/davcode92)
 
-- 📝J'écris régulièrement des articles sur [https://www.facebook.com/profile.php?id=61556301787782](https://www.facebook.com/profile.php?id=61556301787782)
+- 📝Je publie régulièrement mes créations sur [https://www.facebook.com/profile.php?id=61556301787782](https://www.facebook.com/profile.php?id=61556301787782)
 
-- 💬 Demande moi à propos de **React,Angular**
+- 💬 Demande moi à propos de **React,Express,MongoDB,Node.js**
 
 - 📫Comment me joindre **crocodilemethe@gmail.com**
 
