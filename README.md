@@ -1,4 +1,4 @@
-
+<link rel="stylesheet" href="index.css">
 <h1 align="center">Salut 👋,c'est Davy</h1>
 <h3 align="center">Je suis Développeur full stack Javascript.</h3>
 
