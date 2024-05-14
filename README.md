@@ -1,4 +1,4 @@
-<p style="background-image: url('[img_girl.jpg](https://scontent.ftun8-1.fna.fbcdn.net/v/t39.30808-6/441460349_1351815049544641_679736872027022960_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=q66aCcWyujUQ7kNvgF1Ywy-&_nc_ht=scontent.ftun8-1.fna&oh=00_AYDZPyX3EGoUHexRFSIEMM5sI29Ci4w7BxQQw-Zevz_6nQ&oe=66491431)');">
+
 <h1 align="center">Salut 👋,c'est Davy</h1>
 <h3 align="center">Je suis Développeur full stack Javascript.</h3>
 
