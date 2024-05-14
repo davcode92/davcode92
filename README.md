@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Salut 👋,c'est Davy</h1>
-<h3 align="center">Je suis Développeur full stack Javascript.</h3>
+<h3 align="center">Je suis Développeur full stack Javascript(MERN).</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davcode92" alt="davcode92" /></a> </p>
 
